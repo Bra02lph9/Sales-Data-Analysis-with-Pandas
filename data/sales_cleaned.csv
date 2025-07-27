@@ -1,0 +1,17 @@
+OrderDate,Region,Product,Quantity,UnitPrice,SalesPerson,Month,Year,Total
+2025-01-03,East,Notebook,5,15.99,Alice,1,2025,79.95
+2025-01-05,West,Pen,20,1.99,Bob,1,2025,39.8
+2025-01-06,South,Monitor,2,199.99,Charlie,1,2025,399.98
+2025-01-08,North,Mouse,10,12.49,Diana,1,2025,124.9
+2025-01-10,East,Keyboard,3,49.99,Alice,1,2025,149.97
+2025-01-13,West,Laptop,1,999.99,Bob,1,2025,999.99
+2025-01-15,South,Notebook,10,14.99,Charlie,1,2025,149.9
+2025-01-16,North,Mouse,6,11.99,Diana,1,2025,71.94
+2025-01-18,East,Pen,50,1.89,Alice,1,2025,94.5
+2025-01-20,West,Monitor,3,189.99,Bob,1,2025,569.97
+2025-01-21,South,Keyboard,2,45.0,Charlie,1,2025,90.0
+2025-01-25,North,Laptop,1,1049.99,Diana,1,2025,1049.99
+2025-01-26,East,Mouse,8,12.29,Alice,1,2025,98.32
+2025-01-27,West,Notebook,7,15.5,Bob,1,2025,108.5
+2025-01-29,South,Pen,100,1.95,Charlie,1,2025,195.0
+2025-01-31,North,Monitor,1,199.99,Diana,1,2025,199.99
